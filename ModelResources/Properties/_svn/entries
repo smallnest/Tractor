@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="864"
+   name=""
+   committed-date="2006-02-09T06:41:24.859375Z"
+   url="svn://localhost/trunks/Tractor/ModelResources/Properties"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="884"
+   name="AssemblyInfo.cs"
+   text-time="2006-07-31T04:43:45.093750Z"
+   committed-date="2006-07-31T04:44:55.046875Z"
+   checksum="9df8c48bfe95eac165b95af80deac396"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:51.734375Z"
+   revision="884"/>
+</wc-entries>

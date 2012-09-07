@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor/OperaResources"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="864"
+   name="OperaResources.csproj"
+   text-time="2006-07-31T04:39:44.453125Z"
+   committed-date="2006-02-09T06:41:24.859375Z"
+   checksum="eed68289f8a927caf4755feec19c09b5"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:01.703125Z"/>
+<entry
+   committed-rev="514"
+   name="Kuaff.Opera.resx"
+   text-time="2006-07-31T04:39:44.468750Z"
+   committed-date="2006-01-08T12:49:36.109375Z"
+   checksum="5799dc611efc5c5660fc7210cc0fe710"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:01.718750Z"/>
+<entry
+   committed-rev="514"
+   name="Kuaff.Opera.Designer.cs"
+   text-time="2006-07-31T04:39:44.484375Z"
+   committed-date="2006-01-08T12:49:36.109375Z"
+   checksum="ffea4557370c70d438e49a4667d7dc99"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:01.734375Z"/>
+<entry
+   committed-rev="751"
+   name="kuaff.pfx"
+   text-time="2006-07-31T04:39:44.500000Z"
+   committed-date="2006-01-21T05:39:26.500000Z"
+   checksum="e99452648672dc7e531396e337cd0d77"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:01.859375Z"/>
+<entry
+   name="Resources"
+   kind="dir"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   name="Properties"
+   kind="dir"/>
+</wc-entries>

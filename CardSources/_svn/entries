@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="864"
+   name=""
+   committed-date="2006-02-09T06:41:24.859375Z"
+   url="svn://localhost/trunks/Tractor/CardSources"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="478"
+   name="Kuaff.Cards.resx"
+   text-time="2006-07-31T04:41:38.796875Z"
+   committed-date="2005-12-31T12:26:17.921875Z"
+   checksum="5d9052cf4c477ef6d10d3d3b4b809a40"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:51.968750Z"/>
+<entry
+   committed-rev="751"
+   name="kuaff.pfx"
+   text-time="2006-07-31T04:41:38.828125Z"
+   committed-date="2006-01-21T05:39:26.500000Z"
+   checksum="e99452648672dc7e531396e337cd0d77"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:51.984375Z"/>
+<entry
+   name="Resources"
+   kind="dir"/>
+<entry
+   committed-rev="479"
+   name="Kuaff.Cards.Designer.cs"
+   text-time="2006-07-31T04:41:38.843750Z"
+   committed-date="2005-12-31T12:34:01.109375Z"
+   checksum="de714da2bf868d4cea5c0153fd1b383a"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:52.000000Z"/>
+<entry
+   name="Properties"
+   kind="dir"/>
+<entry
+   committed-rev="864"
+   name="CardSources.csproj"
+   text-time="2006-07-31T04:41:38.859375Z"
+   committed-date="2006-02-09T06:41:24.859375Z"
+   checksum="63357bf090624ff9d1b90e1989d80009"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:41:38.625000Z"/>
+</wc-entries>

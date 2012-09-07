@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor/AlgorithmSample"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="862"
+   name="AlgorithmSample.csproj"
+   text-time="2006-07-31T04:40:09.718750Z"
+   committed-date="2006-02-09T06:13:08.734375Z"
+   checksum="f71ea550cbf76b003557e656fa6fd911"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.421875Z"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   committed-rev="848"
+   name="SampleUserAlgorithm.cs"
+   text-time="2006-07-31T04:40:09.750000Z"
+   committed-date="2006-02-09T02:39:35.921875Z"
+   checksum="d8c78c033b3f05a5536cc7a4408adf29"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:09.437500Z"/>
+<entry
+   name="Properties"
+   kind="dir"/>
+</wc-entries>

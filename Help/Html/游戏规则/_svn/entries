@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="623"
+   name=""
+   committed-date="2006-01-15T13:24:12.984375Z"
+   url="svn://localhost/trunks/Tractor/Help/Html/%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="623"
+   name="抠底规则.html"
+   text-time="2006-07-31T04:40:13.812500Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="4fbc0320b1c792a30859f99813c5a5ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.203125Z"/>
+<entry
+   committed-rev="623"
+   name="轮庄规则.html"
+   text-time="2006-07-31T04:40:13.843750Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="cef74bd1e89b175422ff5e219c878258"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.250000Z"/>
+<entry
+   committed-rev="623"
+   name="亮牌规则.html"
+   text-time="2006-07-31T04:40:13.937500Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="87b7f4fbb52974571f1a551369c1afd2"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.296875Z"/>
+<entry
+   committed-rev="623"
+   name="术语.html"
+   text-time="2006-07-31T04:40:14.078125Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="be2257b4873c0a3d739ab2608c9230ad"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.406250Z"/>
+<entry
+   committed-rev="623"
+   name="打牌规则.html"
+   text-time="2006-07-31T04:40:14.109375Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="abbe1cc779d54970fb7689019e7b2c09"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.453125Z"/>
+<entry
+   committed-rev="623"
+   name="牌的大小顺序.html"
+   text-time="2006-07-31T04:40:14.140625Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="30138d807f3c3bed72a800f1ea464cda"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.468750Z"/>
+<entry
+   committed-rev="623"
+   name="拖拉机的构成.html"
+   text-time="2006-07-31T04:40:14.156250Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="308b31f5e135405b125bf145f5c6e4c5"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.484375Z"/>
+<entry
+   committed-rev="623"
+   name="升级规则.html"
+   text-time="2006-07-31T04:40:14.187500Z"
+   committed-date="2006-01-15T13:24:12.984375Z"
+   checksum="06c96baea0762d87246d6a95a9c37af1"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:13.500000Z"/>
+</wc-entries>

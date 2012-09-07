@@ -1,0 +1,14 @@
+bin\framework1.1\Kuaff.OperaResources.dll
+bin\framework1.1\Kuaff.OperaResources.pdb
+obj\framework1.1\ResolveAssemblyReference.cache
+obj\framework1.1\Kuaff.OperaResources.Kuaff.Opera.resources
+obj\framework1.1\OperaResources.csproj.GenerateResource.Cache
+obj\framework1.1\Kuaff.OperaResources.dll
+obj\framework1.1\Kuaff.OperaResources.pdb
+bin\Debug\Kuaff.OperaResources.dll
+bin\Debug\Kuaff.OperaResources.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kuaff.OperaResources.Kuaff.Opera.resources
+obj\Debug\OperaResources.csproj.GenerateResource.Cache
+obj\Debug\Kuaff.OperaResources.dll
+obj\Debug\Kuaff.OperaResources.pdb

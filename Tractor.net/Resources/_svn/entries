@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="858"
+   name=""
+   committed-date="2006-02-09T05:49:50.250000Z"
+   url="svn://localhost/trunks/Tractor/Tractor.net/Resources"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="524"
+   name="scores.png"
+   text-time="2006-07-31T04:39:56.687500Z"
+   committed-date="2006-01-08T14:32:16.500000Z"
+   checksum="5f791939e615fb2745c9427b9543f2dc"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:54.187500Z"/>
+<entry
+   committed-rev="505"
+   name="Logo.png"
+   text-time="2006-07-31T04:40:05.093750Z"
+   committed-date="2006-01-08T05:58:53.593750Z"
+   checksum="49bb234ae10fbe29e14f72cd1ecfb4ec"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:54.406250Z"/>
+<entry
+   committed-rev="476"
+   name="Backgroud.png"
+   text-time="2006-07-31T04:40:05.515625Z"
+   committed-date="2005-12-31T12:23:16.984375Z"
+   checksum="b9e60250ea6b72d7ec18889ab6035e9f"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:54.953125Z"/>
+<entry
+   committed-rev="825"
+   name="Winner.png"
+   text-time="2006-07-31T04:40:05.937500Z"
+   committed-date="2006-01-25T07:03:46.156250Z"
+   checksum="c51283c3dd86248ebd22ff2afdf312a7"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.312500Z"/>
+<entry
+   committed-rev="476"
+   name="Toolbar.png"
+   text-time="2006-07-31T04:40:05.578125Z"
+   committed-date="2005-12-31T12:23:16.984375Z"
+   checksum="38895f2d24855da974a7e7b6335c2ccb"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.031250Z"/>
+<entry
+   committed-rev="650"
+   name="MenuPause.png"
+   text-time="2006-07-31T04:40:05.546875Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="29e7634ba72f0dd9b0177605f175489b"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.015625Z"/>
+<entry
+   committed-rev="523"
+   name="Ready.png"
+   text-time="2006-07-31T04:40:05.953125Z"
+   committed-date="2006-01-08T13:55:39.500000Z"
+   checksum="491e2586cf57196972aeb7c35c1f487e"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.359375Z"/>
+<entry
+   committed-rev="476"
+   name="Banner.png"
+   text-time="2006-07-31T04:40:06.328125Z"
+   committed-date="2005-12-31T12:23:16.984375Z"
+   checksum="18ec4ffc61265d7fd6b0a60c5c9d18a2"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.546875Z"/>
+<entry
+   committed-rev="576"
+   name="Pass.png"
+   text-time="2006-07-31T04:40:06.343750Z"
+   committed-date="2006-01-12T07:29:39.359375Z"
+   checksum="41abd009e2021a70b059b744a263271c"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.640625Z"/>
+<entry
+   committed-rev="476"
+   name="Sidebar.png"
+   text-time="2006-07-31T04:40:06.375000Z"
+   committed-date="2005-12-31T12:23:16.984375Z"
+   checksum="18ec4ffc61265d7fd6b0a60c5c9d18a2"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.781250Z"/>
+<entry
+   committed-rev="578"
+   name="About.png"
+   text-time="2006-07-31T04:40:06.406250Z"
+   committed-date="2006-01-12T08:20:22.593750Z"
+   checksum="7223da47afd13698173727936fc14a7f"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.812500Z"/>
+<entry
+   committed-rev="650"
+   name="MenuHelp.png"
+   text-time="2006-07-31T04:40:06.453125Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="32b87f6b7122709a3a7d1c4fd0a3c643"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.921875Z"/>
+<entry
+   committed-rev="858"
+   name="music.png"
+   text-time="2006-07-31T04:40:06.828125Z"
+   committed-date="2006-02-09T05:49:50.250000Z"
+   checksum="5e230ad9068729a5d35a4c0f83dc7a10"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.140625Z"/>
+<entry
+   committed-rev="764"
+   name="DialogBack.png"
+   text-time="2006-07-31T04:40:06.468750Z"
+   committed-date="2006-01-22T01:52:17.562500Z"
+   checksum="91bd37c14bfbec581f4987b418423568"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:55.937500Z"/>
+<entry
+   committed-rev="858"
+   name="fere.png"
+   text-time="2006-07-31T04:40:06.859375Z"
+   committed-date="2006-02-09T05:49:50.250000Z"
+   checksum="cb14c7d3cbeefe1dcf0e0ed18103d8ca"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.156250Z"/>
+<entry
+   committed-rev="650"
+   name="MenuStart.png"
+   text-time="2006-07-31T04:40:06.890625Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="0fac75aa89076934e4e0da83109ffd84"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.171875Z"/>
+<entry
+   committed-rev="758"
+   name="CardNumber.png"
+   text-time="2006-07-31T04:40:06.906250Z"
+   committed-date="2006-01-21T10:41:09.390625Z"
+   checksum="9f75c5240c702594840bbe4361349f91"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.187500Z"/>
+<entry
+   committed-rev="650"
+   name="MenuSave.png"
+   text-time="2006-07-31T04:40:06.937500Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="79ff83b6f7f5ecccea4121a195138e53"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.359375Z"/>
+<entry
+   committed-rev="858"
+   name="Suit.png"
+   text-time="2006-07-31T04:40:06.968750Z"
+   committed-date="2006-02-09T05:49:50.250000Z"
+   checksum="724af3b921b8958b8bdcfb4cdbefe324"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.390625Z"/>
+<entry
+   committed-rev="650"
+   name="MenuSpeed.png"
+   text-time="2006-07-31T04:40:06.984375Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="a042bad1b64a776c84ea89cdbc41fbbc"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.406250Z"/>
+<entry
+   committed-rev="650"
+   name="MenuResume.png"
+   text-time="2006-07-31T04:40:07.015625Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="be22394248c0bd8924e2f206dde65569"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.421875Z"/>
+<entry
+   committed-rev="858"
+   name="robot.png"
+   text-time="2006-07-31T04:40:07.031250Z"
+   committed-date="2006-02-09T05:49:50.250000Z"
+   checksum="6f939cdcfd4ca37c17e48d7a7f3b7a1a"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.437500Z"/>
+<entry
+   committed-rev="650"
+   name="MenuOpen.png"
+   text-time="2006-07-31T04:40:07.062500Z"
+   committed-date="2006-01-17T09:53:13.546875Z"
+   checksum="b4ea6c105541591b5049d948e4acfefc"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.468750Z"/>
+<entry
+   committed-rev="539"
+   name="Master.png"
+   text-time="2006-07-31T04:40:07.093750Z"
+   committed-date="2006-01-10T08:14:32.515625Z"
+   checksum="a0907a1ca4d3ac26c1857a89f4aaa64a"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:56.484375Z"/>
+</wc-entries>

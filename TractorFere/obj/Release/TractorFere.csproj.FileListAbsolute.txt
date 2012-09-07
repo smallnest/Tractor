@@ -1,0 +1,8 @@
+D:\dotnetspace\old\Tractor\TractorFere\bin\Release\Kuaff.TractorFere.dll
+D:\dotnetspace\old\Tractor\TractorFere\bin\Release\Kuaff.TractorFere.pdb
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\ResolveAssemblyReference.cache
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.Properties.Resources.resources
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\ResGen.read.1.tlog
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\ResGen.write.1.tlog
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.dll
+D:\dotnetspace\old\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.pdb

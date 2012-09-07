@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor/AlgorithmSample/obj/Debug"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="871"
+   name="ResolveAssemblyReference.cache"
+   text-time="2006-07-31T04:40:09.078125Z"
+   committed-date="2006-02-15T07:21:47.687500Z"
+   checksum="bf337a8fb0600486f8358238637e5856"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.671875Z"/>
+<entry
+   committed-rev="871"
+   name="Kuaff.Tractor.AlgorithmSample.pdb"
+   text-time="2006-07-31T04:40:09.140625Z"
+   committed-date="2006-02-15T07:21:47.687500Z"
+   checksum="b2950bf35a6c2cf6e94ec27b553a388c"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.687500Z"/>
+<entry
+   name="TempPE"
+   kind="dir"/>
+<entry
+   committed-rev="871"
+   name="Kuaff.Tractor.AlgorithmSample.dll"
+   text-time="2006-07-31T04:40:09.312500Z"
+   committed-date="2006-02-15T07:21:47.687500Z"
+   checksum="6c0353c7e1174d8146713504efc6df35"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.765625Z"/>
+</wc-entries>

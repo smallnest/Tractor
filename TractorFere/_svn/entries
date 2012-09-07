@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor/TractorFere"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="864"
+   name="TractorFere.csproj"
+   text-time="2006-07-31T04:39:00.296875Z"
+   committed-date="2006-02-09T06:41:24.859375Z"
+   checksum="15a0e5f60ee0d6730edbad87be60fa4d"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:24.828125Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="785"
+   name="kuaff.pfx"
+   text-time="2006-07-31T04:39:00.312500Z"
+   committed-date="2006-01-22T12:02:58.187500Z"
+   checksum="e99452648672dc7e531396e337cd0d77"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:25.375000Z"/>
+<entry
+   name="Resources"
+   kind="dir"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   committed-rev="784"
+   name="Fere.ico"
+   text-time="2006-07-31T04:39:00.406250Z"
+   committed-date="2006-01-22T09:08:36.562500Z"
+   checksum="fcde18051e0c620b8e1402cf8868e7c8"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:25.421875Z"/>
+<entry
+   name="Properties"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="865"
+   name=""
+   committed-date="2006-02-09T07:31:21.515625Z"
+   url="svn://localhost/trunks/Tractor/Tractor.net/Dialogs"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="852"
+   name="SetGameFinished.resx"
+   text-time="2006-07-31T04:39:49.031250Z"
+   committed-date="2006-02-09T03:25:57.593750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:45.000000Z"/>
+<entry
+   committed-rev="796"
+   name="SelectCardsImage.resx"
+   text-time="2006-07-31T04:39:48.984375Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:44.859375Z"/>
+<entry
+   committed-rev="832"
+   name="TotalScores.resx"
+   text-time="2006-07-31T04:39:49.171875Z"
+   committed-date="2006-01-25T07:43:50.796875Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:45.031250Z"/>
+<entry
+   committed-rev="796"
+   name="SelectMusic.Designer.cs"
+   text-time="2006-07-31T04:39:49.421875Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="bc8ebd34c32e8eef8b610532c67c8b53"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:46.968750Z"/>
+<entry
+   committed-rev="885"
+   name="Fere.Designer.cs"
+   text-time="2006-07-31T05:27:00.234375Z"
+   committed-date="2006-07-31T05:27:22.203125Z"
+   checksum="0e5a241cdb6f0660b984656f2698c965"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.015625Z"
+   revision="885"/>
+<entry
+   committed-rev="817"
+   name="SelectMusic.cs"
+   text-time="2006-07-31T04:39:49.437500Z"
+   committed-date="2006-01-24T12:40:08.734375Z"
+   checksum="ad95c55c486b08d2cd3cfa19409c1838"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.000000Z"/>
+<entry
+   committed-rev="824"
+   name="Fere.cs"
+   text-time="2006-07-31T04:39:49.468750Z"
+   committed-date="2006-01-24T13:53:36.125000Z"
+   checksum="62e4d6ea785b624439d5936e86cce2df"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.031250Z"/>
+<entry
+   committed-rev="796"
+   name="SetRules.resx"
+   text-time="2006-07-31T04:39:49.484375Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.093750Z"/>
+<entry
+   committed-rev="852"
+   name="SelectUserAlgorithm.Designer.cs"
+   text-time="2006-07-31T04:39:49.531250Z"
+   committed-date="2006-02-09T03:25:57.593750Z"
+   checksum="b15c20cb5d117c884e7f93a16efedfdd"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.125000Z"/>
+<entry
+   committed-rev="852"
+   name="SelectUserAlgorithm.cs"
+   text-time="2006-07-31T04:39:49.546875Z"
+   committed-date="2006-02-09T03:25:57.593750Z"
+   checksum="ba18da25e1672959881f92987c692018"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.218750Z"/>
+<entry
+   committed-rev="796"
+   name="About.resx"
+   text-time="2006-07-31T04:39:49.562500Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.234375Z"/>
+<entry
+   committed-rev="796"
+   name="SetSpeedDialog.Designer.cs"
+   text-time="2006-07-31T04:39:49.593750Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="92cbbc14624033ba175f35a7b07647e7"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.546875Z"/>
+<entry
+   committed-rev="796"
+   name="SetSpeedDialog.cs"
+   text-time="2006-07-31T04:39:49.671875Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="27e89eea53135c9fe0897a5310a345d2"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.796875Z"/>
+<entry
+   committed-rev="819"
+   name="SelectCardBackImage.Designer.cs"
+   text-time="2006-07-31T04:39:49.656250Z"
+   committed-date="2006-01-24T13:07:36.484375Z"
+   checksum="52991ddbf02603189bc99d14a0e13641"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.781250Z"/>
+<entry
+   committed-rev="796"
+   name="SelectMusic.resx"
+   text-time="2006-07-31T04:39:49.625000Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.671875Z"/>
+<entry
+   committed-rev="820"
+   name="SelectCardBackImage.cs"
+   text-time="2006-07-31T04:39:49.687500Z"
+   committed-date="2006-01-24T13:17:34.578125Z"
+   checksum="216471c7f33e9a2e6f26ced448bdf835"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.828125Z"/>
+<entry
+   committed-rev="816"
+   name="Fere.resx"
+   text-time="2006-07-31T04:39:49.703125Z"
+   committed-date="2006-01-24T12:27:49.421875Z"
+   checksum="a379d1943756d10e0c6d1b51486a5212"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.875000Z"/>
+<entry
+   committed-rev="796"
+   name="SelectCardsImage.Designer.cs"
+   text-time="2006-07-31T04:39:49.734375Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="49eb750351e4e0e2f05e1ca5e6badf00"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.906250Z"/>
+<entry
+   committed-rev="865"
+   name="SetGameFinished.Designer.cs"
+   text-time="2006-07-31T04:39:49.750000Z"
+   committed-date="2006-02-09T07:31:21.515625Z"
+   checksum="a972bd480b2c35b85957627f5846fbef"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:47.921875Z"/>
+<entry
+   committed-rev="796"
+   name="SelectCardsImage.cs"
+   text-time="2006-07-31T04:39:49.765625Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="caf48c1c9cbf8bc7f9ee0863236d12e0"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.015625Z"/>
+<entry
+   committed-rev="854"
+   name="SetGameFinished.cs"
+   text-time="2006-07-31T04:39:49.781250Z"
+   committed-date="2006-02-09T03:28:48.015625Z"
+   checksum="ebac65a6c1ae930a7918c76ad383cae6"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.031250Z"/>
+<entry
+   committed-rev="841"
+   name="SelectUserAlgorithm.resx"
+   text-time="2006-07-31T04:39:49.796875Z"
+   committed-date="2006-02-08T06:22:57.484375Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.218750Z"/>
+<entry
+   committed-rev="835"
+   name="TotalScores.Designer.cs"
+   text-time="2006-07-31T04:39:49.828125Z"
+   committed-date="2006-01-25T07:54:02.921875Z"
+   checksum="c145560158f57324092155b394b5f644"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.343750Z"/>
+<entry
+   committed-rev="835"
+   name="TotalScores.cs"
+   text-time="2006-07-31T04:39:49.843750Z"
+   committed-date="2006-01-25T07:54:02.921875Z"
+   checksum="22e94d726f023f0ff15360ee807b5716"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.375000Z"/>
+<entry
+   committed-rev="850"
+   name="SetRules.Designer.cs"
+   text-time="2006-07-31T04:39:49.859375Z"
+   committed-date="2006-02-09T02:58:14.015625Z"
+   checksum="65298b6514038074c972d935605d9250"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.390625Z"/>
+<entry
+   committed-rev="850"
+   name="SetRules.cs"
+   text-time="2006-07-31T04:39:49.875000Z"
+   committed-date="2006-02-09T02:58:14.015625Z"
+   checksum="1ca95f73cddebe060a44277282359d42"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.421875Z"/>
+<entry
+   committed-rev="796"
+   name="SetSpeedDialog.resx"
+   text-time="2006-07-31T04:39:49.890625Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.468750Z"/>
+<entry
+   committed-rev="819"
+   name="SelectCardBackImage.resx"
+   text-time="2006-07-31T04:39:49.937500Z"
+   committed-date="2006-01-24T13:07:36.484375Z"
+   checksum="4664e2cc27009a6d4186970216a062ac"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.546875Z"/>
+<entry
+   committed-rev="886"
+   name="About.Designer.cs"
+   text-time="2006-07-31T05:28:55.000000Z"
+   committed-date="2006-07-31T05:29:02.156250Z"
+   checksum="a722aa4ee52253da264ee8c9ebcbb4a5"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.890625Z"
+   revision="886"/>
+<entry
+   committed-rev="796"
+   name="About.cs"
+   text-time="2006-07-31T04:39:50.031250Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="abb8377515f2e886b16b6f8800a8c9dd"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:48.906250Z"/>
+</wc-entries>

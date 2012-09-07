@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   name="TractorFere"
+   kind="dir"/>
+<entry
+   name="TractorPlugins"
+   kind="dir"/>
+<entry
+   name="OperaResources"
+   kind="dir"/>
+<entry
+   name="Tractor.net"
+   kind="dir"/>
+<entry
+   committed-rev="892"
+   name="Tractor.suo"
+   text-time="2006-07-31T06:00:08.109000Z"
+   committed-date="2006-07-31T06:03:22.312500Z"
+   checksum="71cb4add4669da4e6fd732a497115b4c"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.218750Z"
+   revision="892"/>
+<entry
+   committed-rev="867"
+   name="Changelog.txt"
+   text-time="2006-07-31T04:41:38.968750Z"
+   committed-date="2006-02-13T00:51:38.359375Z"
+   checksum="e70c7493e855dbba3d39cd2b00e27b4d"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:08.234375Z"/>
+<entry
+   name="AlgorithmSample"
+   kind="dir"/>
+<entry
+   name="Help"
+   kind="dir"/>
+<entry
+   committed-rev="868"
+   name="Feature.txt"
+   text-time="2006-07-31T04:41:38.984375Z"
+   committed-date="2006-02-13T00:51:57.187500Z"
+   checksum="67891f6bccddb3f5bd873e92ee435c1c"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:14.812500Z"/>
+<entry
+   committed-rev="846"
+   name="Tractor.sln"
+   text-time="2006-07-31T04:41:39.000000Z"
+   committed-date="2006-02-08T07:41:28.453125Z"
+   checksum="326a9fef8adecd700d1886d590e7886b"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:40:14.890625Z"/>
+<entry
+   name="ModelResources"
+   kind="dir"/>
+<entry
+   name="CardSources"
+   kind="dir"/>
+</wc-entries>

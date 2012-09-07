@@ -1,0 +1,5 @@
+D:\dotnetspace\old\Tractor\Tractor.net\bin\Release\plugins\Kuaff.Tractor.AlgorithmSample.dll
+D:\dotnetspace\old\Tractor\Tractor.net\bin\Release\plugins\Kuaff.Tractor.AlgorithmSample.pdb
+D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\ResolveAssemblyReference.cache
+D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.dll
+D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.pdb

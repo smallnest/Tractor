@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="851"
+   name=""
+   committed-date="2006-02-09T03:11:27.390625Z"
+   url="svn://localhost/trunks/Tractor/Tractor.net/Helpers"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="796"
+   name="DistributePokerHelper.cs"
+   text-time="2006-07-31T04:39:52.484375Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="e6df90e34787e1bfb6d3d2c4b3217028"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:52.203125Z"/>
+<entry
+   committed-rev="851"
+   name="DrawingFormHelper.cs"
+   text-time="2006-07-31T04:39:52.500000Z"
+   committed-date="2006-02-09T03:11:27.390625Z"
+   checksum="013e6bb0dc1e4578d4e698fee1f22bf9"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:52.218750Z"/>
+<entry
+   committed-rev="796"
+   name="CalculateRegionHelper.cs"
+   text-time="2006-07-31T04:39:52.937500Z"
+   committed-date="2006-01-23T05:32:16.468750Z"
+   checksum="967505062661ab87077f8e616e1069b2"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:52.265625Z"/>
+</wc-entries>

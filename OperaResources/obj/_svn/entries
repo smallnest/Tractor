@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="871"
+   name=""
+   committed-date="2006-02-15T07:21:47.687500Z"
+   url="svn://localhost/trunks/Tractor/OperaResources/obj"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="889"
+   name="OperaResources.csproj.FileList.txt"
+   text-time="2006-07-31T06:00:05.250000Z"
+   committed-date="2006-07-31T06:01:03.796875Z"
+   checksum="3d8793ec2f20f6c46889c45f47d5a9d5"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:39:44.265625Z"
+   revision="889"/>
+</wc-entries>

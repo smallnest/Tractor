@@ -1,0 +1,26 @@
+.banner {
+	color: #FFFFFF;
+	background-color: #0033FF;
+	background-position: right top;
+	left: 0px;
+	top: 0px;
+	position: relative;
+	visibility: visible;
+	height: 54px;
+	width: 100%;
+	font-weight: bold;
+	font-family: "ËÎÌו";
+	font-size: 12pt;
+	text-align: left;
+	vertical-align: top;
+	border: thin solid #EEEEEE;
+	margin: 0px;
+	padding: 0px;
+	background-attachment: fixed;
+	background-image: url(tractor.jpg);
+	background-repeat: no-repeat;
+}
+.content {
+	font-family: "ËÎÌו";
+	font-size: 10pt;
+}

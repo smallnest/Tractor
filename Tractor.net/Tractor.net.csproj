@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D7FB765-442F-49F7-BA5B-CCF57AA9B9EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kuaff.Tractor</RootNamespace>
+    <AssemblyName>Kuaff.Tractor</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>Tractor.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.84.0.0, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dialogs\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithms\Algorithm.cs" />
+    <Compile Include="Dialogs\SelectCardBackImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SelectCardBackImage.Designer.cs">
+      <DependentUpon>SelectCardBackImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SelectUserAlgorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SelectUserAlgorithm.Designer.cs">
+      <DependentUpon>SelectUserAlgorithm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SetGameFinished.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SetGameFinished.Designer.cs">
+      <DependentUpon>SetGameFinished.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\TotalScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\TotalScores.Designer.cs">
+      <DependentUpon>TotalScores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\CalculateRegionHelper.cs" />
+    <Compile Include="CommonMethods.cs" />
+    <Compile Include="CurrentPoker.cs" />
+    <Compile Include="DefinedConstant.cs" />
+    <Compile Include="Helpers\DistributePokerHelper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Helpers\DrawingFormHelper.cs" />
+    <Compile Include="Dialogs\Fere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Fere.Designer.cs">
+      <DependentUpon>Fere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameConfig.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MciSoundPlayer.cs" />
+    <Compile Include="Algorithms\MustSendCardsAlgorithm.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Dialogs\About.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SelectCardBackImage.resx">
+      <DependentUpon>SelectCardBackImage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Fere.resx">
+      <DependentUpon>Fere.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SelectUserAlgorithm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectUserAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SetGameFinished.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetGameFinished.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\TotalScores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TotalScores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SelectCardsImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectCardsImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SelectMusic.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectMusic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SetRules.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetRules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\SetSpeedDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetSpeedDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Dialogs\SelectCardsImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SelectCardsImage.Designer.cs">
+      <DependentUpon>SelectCardsImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SelectMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SelectMusic.Designer.cs">
+      <DependentUpon>SelectMusic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SetRules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SetRules.Designer.cs">
+      <DependentUpon>SetRules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SetSpeedDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\SetSpeedDialog.Designer.cs">
+      <DependentUpon>SetSpeedDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithms\ShouldSendedCardsAlgorithm.cs" />
+    <Compile Include="Algorithms\TractorRules.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backgroud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CardSources\CardSources.csproj">
+      <Project>{373AE352-0B3B-4FB1-8152-CD4057C8E2E7}</Project>
+      <Name>CardSources</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModelResources\ModelResources.csproj">
+      <Project>{57B5611C-2BA0-4ACC-963B-BA00E05EC947}</Project>
+      <Name>ModelResources</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OperaResources\OperaResources.csproj">
+      <Project>{3A092B6C-913F-427B-B68B-2957BABED63E}</Project>
+      <Name>OperaResources</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TractorFere\TractorFere.csproj">
+      <Project>{6F86E67F-F3EE-410C-86AD-B2C09FEFF308}</Project>
+      <Name>TractorFere</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TractorPlugins\TractorPlugins.csproj">
+      <Project>{8DDC541B-3D21-4788-BC0E-39FF0FA694E8}</Project>
+      <Name>TractorPlugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ready.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sidebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Suit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Master.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CardNumber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Resources\Pass.png" />
+    <None Include="Resources\About.png" />
+    <None Include="Resources\MenuHelp.png" />
+    <None Include="Resources\MenuPause.png" />
+    <None Include="Resources\MenuResume.png" />
+    <None Include="Resources\MenuSpeed.png" />
+    <None Include="Resources\MenuStart.png" />
+    <None Include="Resources\MenuOpen.png" />
+    <None Include="Resources\MenuSave.png" />
+    <None Include="Resources\DialogBack.png" />
+    <None Include="Resources\Winner.png" />
+    <None Include="Resources\fere.png" />
+    <None Include="Resources\music.png" />
+    <None Include="Resources\robot.png" />
+    <Content Include="Tractor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

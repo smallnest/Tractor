@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="864"
+   name=""
+   committed-date="2006-02-09T06:41:24.859375Z"
+   url="svn://localhost/trunks/Tractor/TractorFere/Properties"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+<entry
+   committed-rev="884"
+   name="AssemblyInfo.cs"
+   text-time="2006-07-31T04:44:22.171875Z"
+   committed-date="2006-07-31T04:44:55.046875Z"
+   checksum="4c67525c32109bf4f211c81898cc281a"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:59.765625Z"
+   revision="884"/>
+<entry
+   committed-rev="770"
+   name="Settings.settings"
+   text-time="2006-07-31T04:38:59.953125Z"
+   committed-date="2006-01-22T06:24:25.796875Z"
+   checksum="8c0f00d7d9b0046695a0255f1b11b061"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:59.781250Z"/>
+<entry
+   committed-rev="770"
+   name="Settings.Designer.cs"
+   text-time="2006-07-31T04:39:00.015625Z"
+   committed-date="2006-01-22T06:24:25.796875Z"
+   checksum="e02f9108b4943d95f780fc6a99cc7417"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:59.796875Z"/>
+<entry
+   committed-rev="770"
+   name="Resources.resx"
+   text-time="2006-07-31T04:39:00.093750Z"
+   committed-date="2006-01-22T06:24:25.796875Z"
+   checksum="52eba42a8f794e6eab32f3eccca30379"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:59.890625Z"/>
+<entry
+   committed-rev="791"
+   name="Resources.Designer.cs"
+   text-time="2006-07-31T04:39:00.109375Z"
+   committed-date="2006-01-22T12:33:10.218750Z"
+   checksum="df780a158dade1597f591e5db6c5d3f3"
+   last-author="smallnest"
+   kind="file"
+   prop-time="2006-07-31T04:38:59.906250Z"/>
+</wc-entries>

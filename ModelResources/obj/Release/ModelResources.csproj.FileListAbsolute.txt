@@ -1,0 +1,8 @@
+D:\dotnetspace\old\Tractor\ModelResources\bin\Release\Kuaff.ModelResources.dll
+D:\dotnetspace\old\Tractor\ModelResources\bin\Release\Kuaff.ModelResources.pdb
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\ResolveAssemblyReference.cache
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.Kuaff.Model.resources
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\ResGen.read.1.tlog
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\ResGen.write.1.tlog
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.dll
+D:\dotnetspace\old\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.pdb

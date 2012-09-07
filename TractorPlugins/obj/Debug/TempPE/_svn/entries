@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="840"
+   name=""
+   committed-date="2006-02-08T06:21:05.156250Z"
+   url="svn://localhost/trunks/Tractor/TractorPlugins/obj/Debug/TempPE"
+   last-author="smallnest"
+   kind="dir"
+   uuid="ed68ccd5-98d9-ce4b-b723-67a44872eb38"
+   repos="svn://localhost"
+   revision="883"/>
+</wc-entries>

@@ -1,0 +1,5 @@
+..\Tractor.net\bin\Debug\plugins\Kuaff.Tractor.AlgorithmSample.dll
+..\Tractor.net\bin\Debug\plugins\Kuaff.Tractor.AlgorithmSample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kuaff.Tractor.AlgorithmSample.dll
+obj\Debug\Kuaff.Tractor.AlgorithmSample.pdb

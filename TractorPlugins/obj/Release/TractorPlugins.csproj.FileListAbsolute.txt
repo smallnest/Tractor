@@ -1,0 +1,6 @@
+D:\dotnetspace\old\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.dll
+D:\dotnetspace\old\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.pdb
+D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\ResolveAssemblyReference.cache
+D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.dll
+D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.pdb
+D:\dotnetspace\old\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.XML

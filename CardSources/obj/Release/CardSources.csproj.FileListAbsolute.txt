@@ -1,0 +1,8 @@
+D:\dotnetspace\old\Tractor\CardSources\bin\Release\Kuaff.CardResources.dll
+D:\dotnetspace\old\Tractor\CardSources\bin\Release\Kuaff.CardResources.pdb
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\ResolveAssemblyReference.cache
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\Kuaff.CardResouces.Kuaff.Cards.resources
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\ResGen.read.1.tlog
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\ResGen.write.1.tlog
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\Kuaff.CardResources.dll
+D:\dotnetspace\old\Tractor\CardSources\obj\Release\Kuaff.CardResources.pdb

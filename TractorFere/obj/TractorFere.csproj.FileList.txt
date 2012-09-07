@@ -1,0 +1,7 @@
+bin\Debug\Kuaff.TractorFere.dll
+bin\Debug\Kuaff.TractorFere.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kuaff.TractorFere.Properties.Resources.resources
+obj\Debug\TractorFere.csproj.GenerateResource.Cache
+obj\Debug\Kuaff.TractorFere.dll
+obj\Debug\Kuaff.TractorFere.pdb
