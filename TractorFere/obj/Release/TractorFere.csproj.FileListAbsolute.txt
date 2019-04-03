@@ -6,3 +6,11 @@ D:\dotnetspace\old\Tractor\TractorFere\obj\Release\ResGen.read.1.tlog
 D:\dotnetspace\old\Tractor\TractorFere\obj\Release\ResGen.write.1.tlog
 D:\dotnetspace\old\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.dll
 D:\dotnetspace\old\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\bin\Release\Kuaff.TractorFere.dll
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\bin\Release\Kuaff.TractorFere.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\TractorFere.csprojAssemblyReference.cache
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.Properties.Resources.resources
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\TractorFere.csproj.GenerateResource.cache
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\TractorFere.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.dll
+C:\chaos\Source\Repos\smallnest\Tractor\TractorFere\obj\Release\Kuaff.TractorFere.pdb

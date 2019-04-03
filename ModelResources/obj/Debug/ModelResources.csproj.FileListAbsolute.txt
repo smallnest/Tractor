@@ -1,0 +1,12 @@
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Debug\Kuaff.ModelResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Debug\Kuaff.ModelResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\Kuaff.ModelResources.Kuaff.Model.resources
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\ModelResources.csproj.GenerateResource.cache
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\ModelResources.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\Kuaff.ModelResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\Kuaff.ModelResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\ModelResources.csprojAssemblyReference.cache
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Debug\ModelResources.csproj.CopyComplete

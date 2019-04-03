@@ -6,3 +6,10 @@ D:\dotnetspace\old\Tractor\ModelResources\obj\Release\ResGen.read.1.tlog
 D:\dotnetspace\old\Tractor\ModelResources\obj\Release\ResGen.write.1.tlog
 D:\dotnetspace\old\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.dll
 D:\dotnetspace\old\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Release\Kuaff.ModelResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\bin\Release\Kuaff.ModelResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.Kuaff.Model.resources
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Release\ModelResources.csproj.GenerateResource.cache
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Release\ModelResources.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\ModelResources\obj\Release\Kuaff.ModelResources.pdb

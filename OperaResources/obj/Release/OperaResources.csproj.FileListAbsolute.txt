@@ -6,3 +6,11 @@ D:\dotnetspace\old\Tractor\OperaResources\obj\Release\ResGen.read.1.tlog
 D:\dotnetspace\old\Tractor\OperaResources\obj\Release\ResGen.write.1.tlog
 D:\dotnetspace\old\Tractor\OperaResources\obj\Release\Kuaff.OperaResources.dll
 D:\dotnetspace\old\Tractor\OperaResources\obj\Release\Kuaff.OperaResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Release\Kuaff.OperaResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Release\Kuaff.OperaResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\Kuaff.OperaResources.Kuaff.Opera.resources
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\OperaResources.csproj.GenerateResource.cache
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\OperaResources.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\Kuaff.OperaResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\Kuaff.OperaResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Release\OperaResources.csprojAssemblyReference.cache

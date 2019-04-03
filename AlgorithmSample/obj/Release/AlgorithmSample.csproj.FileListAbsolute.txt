@@ -3,3 +3,10 @@ D:\dotnetspace\old\Tractor\Tractor.net\bin\Release\plugins\Kuaff.Tractor.Algorit
 D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\ResolveAssemblyReference.cache
 D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.dll
 D:\dotnetspace\old\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\Tractor.net\bin\Release\plugins\Kuaff.Tractor.AlgorithmSample.dll
+C:\chaos\Source\Repos\smallnest\Tractor\Tractor.net\bin\Release\plugins\Kuaff.Tractor.AlgorithmSample.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Release\AlgorithmSample.csprojAssemblyReference.cache
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Release\AlgorithmSample.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Release\AlgorithmSample.csproj.CopyComplete
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.dll
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Release\Kuaff.Tractor.AlgorithmSample.pdb

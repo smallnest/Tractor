@@ -1,0 +1,7 @@
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Debug\Kuaff.Tractor.AlgorithmSample.dll
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Debug\Kuaff.Tractor.AlgorithmSample.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\Tractor.net\bin\Debug\plugins\Kuaff.Tractor.AlgorithmSample.dll
+C:\chaos\Source\Repos\smallnest\Tractor\Tractor.net\bin\Debug\plugins\Kuaff.Tractor.AlgorithmSample.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Debug\AlgorithmSample.csprojAssemblyReference.cache
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Debug\AlgorithmSample.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\AlgorithmSample\obj\Debug\AlgorithmSample.csproj.CopyComplete

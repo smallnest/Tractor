@@ -1,0 +1,11 @@
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Debug\Kuaff.OperaResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Debug\Kuaff.OperaResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\Kuaff.OperaResources.Kuaff.Opera.resources
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\OperaResources.csproj.GenerateResource.cache
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\OperaResources.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\Kuaff.OperaResources.dll
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\Kuaff.OperaResources.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\chaos\Source\Repos\smallnest\Tractor\OperaResources\obj\Debug\OperaResources.csproj.CopyComplete

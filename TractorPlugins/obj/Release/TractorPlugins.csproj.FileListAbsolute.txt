@@ -4,3 +4,10 @@ D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\ResolveAssemblyReference.c
 D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.dll
 D:\dotnetspace\old\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.pdb
 D:\dotnetspace\old\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.XML
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.XML
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.dll
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\bin\Release\Kuaff.Tractor.Plugins.pdb
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\obj\Release\TractorPlugins.csprojAssemblyReference.cache
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\obj\Release\TractorPlugins.csproj.CoreCompileInputs.cache
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.dll
+C:\chaos\Source\Repos\smallnest\Tractor\TractorPlugins\obj\Release\Kuaff.Tractor.Plugins.pdb
